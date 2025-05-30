@@ -62,14 +62,20 @@
 
 ## 🔗 Connect with me:
 <p align="left">
-
-
-<a href = "https://www.linkedin.com/in/zakaria-eysa-b6b430264/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50" height="50" /></a>
-<a href = "https://www.facebook.com/ZAKARIAEYSA/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="50" height="50" /></a>
-<a href = "https://www.instagram.com/zakariaeysa/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="50" height="50"/></a>
-<img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="50" height="50" /></a>
-
+  <a href="https://www.linkedin.com/in/zakaria-eysa-b6b430264/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50" height="50" />
+  </a>
+  <a href="https://www.facebook.com/ZAKARIAEYSA/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="50" height="50" />
+  </a>
+  <a href="https://www.instagram.com/zakariaeysa/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="50" height="50"/>
+  </a>
+  <a href="https://wa.me/2001091058098" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="50" height="50"/>
+  </a>
 </p>
+
 
 ## ❤ Views and Followers:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
